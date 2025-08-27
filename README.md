@@ -1,35 +1,122 @@
-# Olá! Eu sou Jakson Pascoal | Cientista de Dados  
-Data Scientist | Machine Learning | Power BI | SQL | Python | Gestão de Ativos | Bill of Material (BoM)  
+# Jakson Pascoal — Cientista de Dados & Filósofo dos Padrões
 
-Bem-vindo ao meu espaço de projetos!
+> *“Se os dados falam, eu pergunto: com qual viés?”*
 
-Aqui você encontrará minhas análises, modelagens preditivas e soluções aplicadas em Ciência de Dados, Machine Learning e Business Intelligence. 
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)](#)
+[![SQL](https://img.shields.io/badge/SQL-003B57?logo=databricks\&logoColor=white)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas\&logoColor=white)](#)
+[![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn\&logoColor=white)](#)
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi\&logoColor=black)](#)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit\&logoColor=white)](#)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter\&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)](#)
 
-Minha trajetória une experiência industrial e análise de dados, transformando processos por meio de **insights baseados em dados**.  
-
----
-
-## Sobre Mim  
-🔹 Sou um **Cientista de Dados** com background em **Gestão de Ativos Industriais** e **Bill of Material (BoM)**.  
-🔹 Minha experiência inclui **análise de grandes volumes de dados industriais, automação de processos e modelagem preditiva**.  
-🔹 Atualmente, trabalho com **SQL, Python, Machine Learning e Power BI** para gerar insights estratégicos.  
-🔹 Estou sempre **aprendendo e compartilhando conhecimentos**, explorando técnicas avançadas para transformar dados em valor.  
+Bem‑vindo ao meu espaço onde **estatística encontra filosofia** e **Machine Learning** vira prática aplicada. Aqui você encontra análises, pipelines, modelos e dashboards com uma pitada de ceticismo metódico — porque resultados sem contexto são só ruído com boa formatação.
 
 ---
 
-## 🛠️ Habilidades Principais  
-✔️ **Linguagens:** Python, SQL, R  
-✔️ **Ciência de Dados:** Pandas, NumPy, Scikit-Learn, Machine Learning, NLP  
-✔️ **BI & Visualização:** Power BI, Streamlit, Matplotlib, Seaborn  
-✔️ **Banco de Dados:** SQL Server, PostgreSQL, MySQL  
-✔️ **Gestão de Dados Industriais:** SAP, Bill of Material (BoM), Análise de Ativos  
-✔️ **Métodos Estatísticos:** Análises exploratórias, Regressão, Clusterização, Testes de Hipótese  
+## 🔭 Agora: o que estou construindo
 
+* **Projeto Cripto** — Análises exploratórias, métricas e pipeline inicial para previsões simples.
+  ▶️ Repo: [https://github.com/JaksonPascoal/Projeto\_Cripto](https://github.com/JaksonPascoal/Projeto_Cripto)
+* **Data Warehouse — BoM** — Modelagem e consultas analíticas a partir de *Bill of Materials* (BoM).
+  ▶️ Repo: [https://github.com/JaksonPascoal/Projeto-data-warehouse-bom](https://github.com/JaksonPascoal/Projeto-data-warehouse-bom)
+* **AdventureWorks 2019** — Consultas SQL + análises; base clássica para BI/EDA.
+  ▶️ Repo: [https://github.com/JaksonPascoal/-Projeto\_AdventureWork2019](https://github.com/JaksonPascoal/-Projeto_AdventureWork2019)
+* **Análises de Dados Industriais** — Estudos e provas de conceito com dados de ativos.
+  ▶️ Repo: [https://github.com/JaksonPascoal/Analise\_Dados\_Industriais](https://github.com/JaksonPascoal/Analise_Dados_Industriais)
+* **Estudos de DS** — Caderno de experimentos (notebooks didáticos).
+  ▶️ Repo: [https://github.com/JaksonPascoal/Estudos-DataScience](https://github.com/JaksonPascoal/Estudos-DataScience)
 
+> *Meta:* consolidar 3 projetos **end‑to‑end** (EDA → Modelagem → Deploy) com documentação e execução reprodutível.
 
-## 🌍 Conecte-se Comigo  
-💼 **LinkedIn:** [linkedin.com/in/jakson-pascoal](https://www.linkedin.com/in/jakson-pascoal)  
-💻 **GitHub:** [github.com/JaksonPascoal](https://github.com/JaksonPascoal)  
-📧 **Email:** jkpascoalds@gmail.com  
+---
 
-Se tiver interesse em colaborar ou trocar ideias sobre **Ciência de Dados, Machine Learning e Análises Industriais**, me mande uma mensagem! 
+## 🧭 Filosofia & método
+
+* **Clareza antes de complexidade**: comece simples, meça, melhore.
+* **Ceticismo estatístico**: nenhuma métrica sem *baseline* e sem análise de erro.
+* **Narrativa**: dado conta uma história; eu relato premissas, limites e próximos passos.
+
+---
+
+## 🧩 Stack & práticas
+
+* **Linguagens**: Python, SQL
+* **Libs**: Pandas, NumPy, Scikit‑learn, Matplotlib/Seaborn, Statsmodels
+* **BI**: Power BI, (Streamlit para apps rápidos)
+* **Ambiente**: Jupyter, Git, Virtualenv
+* **Boas práticas**: *requirements.txt*, docstrings, notebooks limpos (inputs/outputs fixos), versionamento de dados (DVC – em progresso)
+
+---
+
+## 🌟 Projetos em destaque (curadoria)
+
+### 1) Data Warehouse — BoM
+
+* **Problema**: organizar e consultar estruturas de materiais complexas.
+* **Abordagem**: limpeza de dados, modelagem (estrela/snowflake onde fizer sentido), queries analíticas.
+* **Próximo**: automatizar ETL e publicar consultas exemplares.
+
+### 2) Projeto Cripto
+
+* **Problema**: entender padrões e instabilidades de séries de preços.
+* **Abordagem**: EDA, engenharia de *features*, protótipos de previsão e *backtesting* simples para *baseline*.
+* **Próximo**: comparar modelos e risco (MAPE vs. drawdown; métricas além de RMSE).
+
+### 3) AdventureWorks 2019
+
+* **Objetivo**: laboratório de SQL e BI com base pública.
+* **Conteúdo**: consultas, KPIs e anotações sobre performance/boas práticas.
+* **Próximo**: painel Power BI de vendas e produto.
+
+---
+
+## 🛠️ Como rodar (padrão)
+
+```bash
+# Clone
+git clone https://github.com/JaksonPascoal/<nome-do-repo>.git
+cd <nome-do-repo>
+
+# Ambiente
+python -m venv .venv
+source .venv/bin/activate  # Windows: .venv\Scripts\activate
+pip install -r requirements.txt
+
+# Executar
+python src/main.py  # (se aplicável)
+# ou
+streamlit run app.py  # (se houver interface)
+```
+
+> Cada repositório tem instruções próprias em `README.md`.
+
+---
+
+## 🗺️ Roadmap público
+
+* [ ] Transformar os 3 projetos principais em **end‑to‑end** (com deploy Streamlit/FastAPI)
+* [ ] **Reprodutibilidade**: `requirements.txt`/`environment.yml` + dados de exemplo + instruções claras
+* [ ] **Qualidade**: `pre-commit` (black, isort, flake8), *type hints*, docstrings Numpy
+* [ ] **Testes**: `pytest` para funções críticas
+* [ ] **CI**: GitHub Actions (linters + testes)
+* [ ] **Dados**: DVC ou *datasets* versionados
+* [ ] **Métricas sérias**: *baselines* fortes + erros com intervalo de confiança
+* [ ] **Post no LinkedIn** a cada marco (com prints/gifs) — mostrar processo importa
+
+---
+
+## 📚 Estudos (repositórios‑base)
+
+* Estatística → [https://github.com/JaksonPascoal/Estatistica](https://github.com/JaksonPascoal/Estatistica)
+* Álgebra Linear → [https://github.com/JaksonPascoal/Algebra\_Linear\_Estudos](https://github.com/JaksonPascoal/Algebra_Linear_Estudos)
+
+---
+
+## 🤝 Contato
+
+* **LinkedIn**: [https://www.linkedin.com/in/jakson-pascoal](https://www.linkedin.com/in/jakson-pascoal)
+* **Email**: [jkpascoalds@gmail.com](mailto:jkpascoalds@gmail.com)
+
+> *“Conhecer os padrões não basta; é preciso gerenciá‑los.”*
