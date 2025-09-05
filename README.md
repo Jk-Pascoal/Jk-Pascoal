@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300" alt="Data Science GIF"/>
+</p>
+
 # Jakson Pascoal — Cientista de Dados & Filósofo dos Padrões
 
 > *“Se os dados falam, eu pergunto: com qual viés?”*
@@ -94,29 +98,17 @@ streamlit run app.py  # (se houver interface)
 
 ---
 
-## 🗺️ Roadmap público
-
-* [ ] Transformar os 3 projetos principais em **end‑to‑end** (com deploy Streamlit/FastAPI)
-* [ ] **Reprodutibilidade**: `requirements.txt`/`environment.yml` + dados de exemplo + instruções claras
-* [ ] **Qualidade**: `pre-commit` (black, isort, flake8), *type hints*, docstrings Numpy
-* [ ] **Testes**: `pytest` para funções críticas
-* [ ] **CI**: GitHub Actions (linters + testes)
-* [ ] **Dados**: DVC ou *datasets* versionados
-* [ ] **Métricas sérias**: *baselines* fortes + erros com intervalo de confiança
-* [ ] **Post no LinkedIn** a cada marco (com prints/gifs) — mostrar processo importa
-
----
-
-## 📚 Estudos (repositórios‑base)
-
-* Estatística → [https://github.com/JaksonPascoal/Estatistica](https://github.com/JaksonPascoal/Estatistica)
-* Álgebra Linear → [https://github.com/JaksonPascoal/Algebra\_Linear\_Estudos](https://github.com/JaksonPascoal/Algebra_Linear_Estudos)
-
----
-
 ## 🤝 Contato
 
 * **LinkedIn**: [https://www.linkedin.com/in/jakson-pascoal](https://www.linkedin.com/in/jakson-pascoal)
 * **Email**: [jkpascoalds@gmail.com](mailto:jkpascoalds@gmail.com)
 
+
 > *“Conhecer os padrões não basta; é preciso gerenciá‑los.”*
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jk-Pascoal&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jk-Pascoal&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
