@@ -49,7 +49,7 @@ Sobre mim : Tenho formação em Analise e Desenvolvimento de Sistemas, especiali
 
 ### 2) projeto-titanic : https://github.com/Jk-Pascoal/projeto-titanic.git
 
-* **FOCOS**: explorar e analisar dados do classico dataset "titanic" através de perguntas em niveis analíticos-filosóficos.
+* **FOCO**: explorar e analisar dados do classico dataset "titanic" através de perguntas em niveis analíticos-filosóficos.
 
 ### 3) proejto-cripto : https://github.com/Jk-Pascoal/projeto-cripto.git
 
