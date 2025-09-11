@@ -43,43 +43,15 @@ Sobre mim : Tenho formação em Analise e Desenvolvimento de Sistemas, uma enorm
 
 ### 1) pascoal-programador : https://github.com/Jk-Pascoal/pascoal-programador.git
 
-* **Problema**: organizar e consultar estruturas de materiais complexas.
-* **Abordagem**: limpeza de dados, modelagem (estrela/snowflake onde fizer sentido), queries analíticas.
-* **Próximo**: automatizar ETL e publicar consultas exemplares.
+* **FOCO**: programação, testes e desenvolvimento web para explorar rotinas úteis de Data Science
 
-### 2) Projeto Cripto
+### 2) projeto-titanic : https://github.com/Jk-Pascoal/projeto-titanic.git
 
-* **Problema**: entender padrões e instabilidades de séries de preços.
-* **Abordagem**: EDA, engenharia de *features*, protótipos de previsão e *backtesting* simples para *baseline*.
-* **Próximo**: comparar modelos e risco (MAPE vs. drawdown; métricas além de RMSE).
+* **FOCOS**: explorar e analisar dados do classico dataset "titanic" através de perguntas em niveis analíticos-filosóficos.
 
-### 3) AdventureWorks 2019
+### 3) proejto-cripto : https://github.com/Jk-Pascoal/projeto-cripto.git
 
-* **Objetivo**: laboratório de SQL e BI com base pública.
-* **Conteúdo**: consultas, KPIs e anotações sobre performance/boas práticas.
-* **Próximo**: painel Power BI de vendas e produto.
-
----
-
-## 🛠️ Como rodar (padrão)
-
-```bash
-# Clone
-git clone https://github.com/JaksonPascoal/<nome-do-repo>.git
-cd <nome-do-repo>
-
-# Ambiente
-python -m venv .venv
-source .venv/bin/activate  # Windows: .venv\Scripts\activate
-pip install -r requirements.txt
-
-# Executar
-python src/main.py  # (se aplicável)
-# ou
-streamlit run app.py  # (se houver interface)
-```
-
-> Cada repositório tem instruções próprias em `README.md`.
+* **FOCO**: pipeline de dados completo, de ponta a ponta, para coletar, tratar, armazenar e analisar dados de preços históricos de criptomoedas.
 
 ---
 
