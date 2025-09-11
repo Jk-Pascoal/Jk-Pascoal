@@ -15,7 +15,8 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter\&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)](#)
 
-Bem‑vindo ao meu espaço onde **estatística encontra filosofia** e **Machine Learning** vira prática aplicada. Aqui você encontra análises, pipelines, modelos e dashboards com uma pitada de ceticismo metódico — porque resultados sem contexto são só ruído com boa formatação.
+Olá! Seja bem‑vindo ao meu espaço onde a Ciência de Dados se encontra com a Filosofia! 
+Sobre mim : Tenho formação em Analise e Desenvolvimento de Sistemas, uma enorme bagagem filosófica (muuitas mesmo...hehe) e também sou guitarrista, amante da Música.
 
 ---
 
