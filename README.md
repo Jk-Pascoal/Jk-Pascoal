@@ -17,7 +17,9 @@
 
 Olá! Seja bem‑vindo ao meu espaço, onde a Ciência de Dados se encontra com a Filosofia! 
 
-Sobre mim : Tenho formação em Analise e Desenvolvimento de Sistemas, uma enorme bagagem filosófica (muuitas leituras mesmo...hehe) e também sou guitarrista, amante da Música.
+Sobre mim : Tenho formação em Analise e Desenvolvimento de Sistemas, especialização em Data Science e uma enorme bagagem filosófica (muuitas leituras mesmo...hehe) e também sou guitarrista, amante da Música.
+
+<img width="521" height="741" alt="image" src="https://github.com/user-attachments/assets/3a962704-c2b2-4a5a-9444-07a43523e6c9" />
 
 ---
 
