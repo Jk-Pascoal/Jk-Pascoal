@@ -37,7 +37,7 @@ Sobre mim : Tenho formação em Analise e Desenvolvimento de Sistemas, especiali
 * **Libs**: Pandas, NumPy, Scikit‑learn, Matplotlib/Seaborn, Statsmodels
 * **BI**: Power BI, (Streamlit para apps rápidos)
 * **Ambiente**: Jupyter, Git, Virtualenv
-* **Boas práticas**: *requirements.txt*, docstrings, notebooks limpos (inputs/outputs fixos), versionamento de dados (DVC – em progresso)
+* **Boas práticas**: *requirements.txt*, docstrings, notebooks limpos (inputs/outputs fixos), versionamento de dados.
 
 ---
 
