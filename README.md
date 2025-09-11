@@ -15,25 +15,9 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter\&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)](#)
 
-Olá! Seja bem‑vindo ao meu espaço onde a Ciência de Dados se encontra com a Filosofia! 
-Sobre mim : Tenho formação em Analise e Desenvolvimento de Sistemas, uma enorme bagagem filosófica (muuitas mesmo...hehe) e também sou guitarrista, amante da Música.
+Olá! Seja bem‑vindo ao meu espaço, onde a Ciência de Dados se encontra com a Filosofia! 
 
----
-
-## 🔭 Agora: o que estou construindo
-
-* **Projeto Cripto** — Análises exploratórias, métricas e pipeline inicial para previsões simples.
-  ▶️ Repo: [https://github.com/JaksonPascoal/Projeto\_Cripto](https://github.com/JaksonPascoal/Projeto_Cripto)
-* **Data Warehouse — BoM** — Modelagem e consultas analíticas a partir de *Bill of Materials* (BoM).
-  ▶️ Repo: [https://github.com/JaksonPascoal/Projeto-data-warehouse-bom](https://github.com/JaksonPascoal/Projeto-data-warehouse-bom)
-* **AdventureWorks 2019** — Consultas SQL + análises; base clássica para BI/EDA.
-  ▶️ Repo: [https://github.com/JaksonPascoal/-Projeto\_AdventureWork2019](https://github.com/JaksonPascoal/-Projeto_AdventureWork2019)
-* **Análises de Dados Industriais** — Estudos e provas de conceito com dados de ativos.
-  ▶️ Repo: [https://github.com/JaksonPascoal/Analise\_Dados\_Industriais](https://github.com/JaksonPascoal/Analise_Dados_Industriais)
-* **Estudos de DS** — Caderno de experimentos (notebooks didáticos).
-  ▶️ Repo: [https://github.com/JaksonPascoal/Estudos-DataScience](https://github.com/JaksonPascoal/Estudos-DataScience)
-
-> *Meta:* consolidar 3 projetos **end‑to‑end** (EDA → Modelagem → Deploy) com documentação e execução reprodutível.
+Sobre mim : Tenho formação em Analise e Desenvolvimento de Sistemas, uma enorme bagagem filosófica (muuitas leituras mesmo...hehe) e também sou guitarrista, amante da Música.
 
 ---
 
@@ -57,7 +41,7 @@ Sobre mim : Tenho formação em Analise e Desenvolvimento de Sistemas, uma enorm
 
 ## 🌟 Projetos em destaque (curadoria)
 
-### 1) Data Warehouse — BoM
+### 1) pascoal-programador : https://github.com/Jk-Pascoal/pascoal-programador.git
 
 * **Problema**: organizar e consultar estruturas de materiais complexas.
 * **Abordagem**: limpeza de dados, modelagem (estrela/snowflake onde fizer sentido), queries analíticas.
