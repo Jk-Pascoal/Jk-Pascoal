@@ -51,7 +51,7 @@ Sobre mim : Tenho formação em Analise e Desenvolvimento de Sistemas, especiali
 
 * **FOCO**: explorar e analisar dados do classico dataset "titanic" através de perguntas em niveis analíticos-filosóficos.
 
-### 3) proejto-cripto : https://github.com/Jk-Pascoal/projeto-cripto.git
+### 3) projeto-cripto : https://github.com/Jk-Pascoal/projeto-cripto.git
 
 * **FOCO**: pipeline de dados completo, de ponta a ponta, para coletar, tratar, armazenar e analisar dados de preços históricos de criptomoedas.
 
