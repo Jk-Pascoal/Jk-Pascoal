@@ -31,12 +31,15 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Linguagens & Ferramentas
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Jk-Pascoal&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jk-Pascoal&layout=compact&langs_count=7&theme=dark"/>
-</div>
+| Área | Ferramentas |
+|------|-------------|
+| **Linguagens** | Python · SQL · R |
+| **ML / IA** | Scikit-learn · XGBoost · SHAP · Statsmodels · SciPy |
+| **Visualização** | Plotly · Matplotlib · Seaborn · Streamlit |
+| **Dados** | Pandas · NumPy · SQL Server · PostgreSQL |
+| **DevOps / Cloud** | Git · GitHub · Docker · AWS (básico) |
 
 ---
 
@@ -52,5 +55,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jakson-pascoal)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Jk-Pascoal)
-
----
