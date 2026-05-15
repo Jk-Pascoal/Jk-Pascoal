@@ -26,7 +26,7 @@
 | [🔍 adventureworks-sql](https://github.com/Jk-Pascoal/adventureworks-sql) | SQL avançado + análise RFM de clientes para marketplace | SQL · Python · Pandas |
 | [🏗️ obra-forecast](https://github.com/Jk-Pascoal/obra-forecast) | ML forecasting com deploy Streamlit para construção civil | Python · XGBoost · Streamlit |
 | [🧪 ab-testing-ecommerce](https://github.com/Jk-Pascoal/ab-testing-ecommerce) | Framework de Testes A/B com rigor estatístico para e-commerce | Python · SciPy · Statsmodels |
-| [🚢 projeto-titanic](https://github.com/Jk-Pascoal/projeto-titanic) | Classificação ML com feature engineering e SHAP | Python · Scikit-learn · SHAP |
+| [🌳 sinop-agro-gis](https://github.com/Jk-Pascoal/sinop-agro-gis) | Análise temporal (2000-2024) de uso do solo com QGIS e Python | Python · GeoPandas · Plotly |
 | [📈 financeiro-plotly](https://github.com/Jk-Pascoal/financeiro-plotly) | Dashboard interativo de KPIs financeiros | Python · Plotly · Pandas |
 
 ---
@@ -35,23 +35,3 @@
 
 | Área | Ferramentas |
 |------|-------------|
-| **Linguagens** | Python · SQL · R |
-| **ML / IA** | Scikit-learn · XGBoost · SHAP · Statsmodels · SciPy |
-| **Visualização** | Plotly · Matplotlib · Seaborn · Streamlit |
-| **Dados** | Pandas · NumPy · SQL Server · PostgreSQL |
-| **DevOps / Cloud** | Git · GitHub · Docker · AWS (básico) |
-
----
-
-## 🎯 Foco Atual
-
-- 📚 Aprofundando em **ML em Produção** (MLflow, FastAPI)
-- ☁️ Explorando **Cloud** (AWS / GCP) para pipelines de dados
-- 🔬 Desenvolvendo projetos de **Experimentação Estatística** (A/B Testing)
-
----
-
-## 📬 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jakson-pascoal)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Jk-Pascoal)
