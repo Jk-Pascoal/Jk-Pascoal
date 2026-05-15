@@ -23,10 +23,10 @@
 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
+| [🌳 sinop-agro-gis](https://github.com/Jk-Pascoal/sinop-agro-gis) | Análise temporal (2000-2024) de uso do solo com QGIS e Python | Python · GeoPandas · Plotly |
 | [🔍 adventureworks-sql](https://github.com/Jk-Pascoal/adventureworks-sql) | SQL avançado + análise RFM de clientes para marketplace | SQL · Python · Pandas |
 | [🏗️ obra-forecast](https://github.com/Jk-Pascoal/obra-forecast) | ML forecasting com deploy Streamlit para construção civil | Python · XGBoost · Streamlit |
 | [🧪 ab-testing-ecommerce](https://github.com/Jk-Pascoal/ab-testing-ecommerce) | Framework de Testes A/B com rigor estatístico para e-commerce | Python · SciPy · Statsmodels |
-| [🌳 sinop-agro-gis](https://github.com/Jk-Pascoal/sinop-agro-gis) | Análise temporal (2000-2024) de uso do solo com QGIS e Python | Python · GeoPandas · Plotly |
 | [📈 financeiro-plotly](https://github.com/Jk-Pascoal/financeiro-plotly) | Dashboard interativo de KPIs financeiros | Python · Plotly · Pandas |
 
 ---
